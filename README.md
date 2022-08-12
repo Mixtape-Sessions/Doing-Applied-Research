@@ -93,6 +93,9 @@ Managing your research project (Mark, 10-minute lecture)
         <li>Include institutional details that are relevant to identification </li>
         <li>Should background section include a literature review? </li>
         <li>Is the literature review separate from the background section? </li>
+          <ul>
+            <li>Which studies should I give the most weight to?</li>
+          </ul>
         <li>How many footnotes are too many? </li>
       </ul>
     <li>Data and empirical methods </li>
@@ -146,8 +149,8 @@ Managing your research project (Mark, 10-minute lecture)
   How to write an effective conclusion (Mark, 10-minute lecture) 
   <ul>
     <li>Do you repeat yourself? How much? </li>
-    <li>Should you provide policy recommendations? </li>
-    <li>Should you opine about future research? </li>
+    <li>What goes in the conclusion?</li>
+    <li>The ever-important last paragraph</li>
     <li>Q&A (10 to 20 minutes)</li>
   </ul>
 </li>
@@ -194,7 +197,6 @@ Managing your research project (Mark, 10-minute lecture)
     <li>Impact Factors (IFs) and why you should care
       <ul>
         <li>Examples of IFs </li>
-        <li>Why does Health Economics have such a high IF? </li>
       </ul>
     </li>
     <li>Q&A (10-20 minutes) </li>
