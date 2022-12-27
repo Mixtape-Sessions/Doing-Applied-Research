@@ -1,13 +1,13 @@
 <img src="img/banner.png" alt="Mixtape Sessions Banner" width="100%"> 
 <br/>
 
-<img src="img/readme_about.png" alt="Mixtape Sessions Banner" width="100%">
+<img src="img/readme_about.png" alt="About" width="100%">
 <br/>
 
 This course is intended to be a practical guide for early career economists doing applied research. The nuts and bolts of writing, publishing, and service to the profession are covered in two half-day sessions, each lasting roughly four hours (including short breaks). We begin by providing tips on selecting a research topic, doing a comprehensive literature search, and “pitching” your results. Next, we go through the publication process from choosing a journal to effectively responding to the comments of editors and reviewers. We wrap up by discussing networking, refereeing for economics journals, and getting the most out of conferences and departmental seminars. Each half-day session ends with an optional 30-minute Q&A about the academic job market.
 
 
-<br/><br/> <img src="img/readme_schedule.png" alt="Mixtape Sessions Banner" width="100%"> <br/>
+<br/><br/> <img src="img/readme_schedule.png" alt="Schedule" width="100%"> <br/>
 
 <details><summary><b> Starting Your Research Project (1 hour)</b></summary><br/>
 <ol type="1">
